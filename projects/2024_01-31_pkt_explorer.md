@@ -64,7 +64,7 @@ As a completed project that has been in use since June 2023, this proposal has o
 Project expenditure report:
 1. June 2023 - 1.5 person weeks @ £3000.
      - Development of initial release (packetscan.io)
-2. January 2023 - 0.5 person weeks @ £500.
+2. January 2023 - 0.5 person weeks @ £1000.
    - Development of new "PKT Cash" branded theme.
 
 #### Payout
