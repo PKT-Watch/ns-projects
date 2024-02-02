@@ -6,7 +6,7 @@
   * Daniel Rochelle (@kuzudr on pkt.chat)
 * Projected duration: n/a - project is complete
 * Projected effort: n/a - project is complete
-* Pre-project effort: 2 person/weeks
+* Pre-project effort: 80 hrs
 * Requested PKT contribution: PKT equivalent to £4000 (GBP)
 * PKT address to pay to: pkt1quv0jf9ve0s5nh5j9dn3sau5hpp90pcyurmfk0w
 
@@ -62,10 +62,11 @@ As a completed project that has been in use since June 2023, this proposal has o
 ✅ Publish source code to GitHub at https://github.com/PKT-Watch/pkt-explorer/
 
 Project expenditure report:
-1. June 2023 - 1.5 person weeks @ £3000.
+1. June 2023 - 60 hours @ £3000.
      - Development of initial release (packetscan.io)
-2. January 2023 - 0.5 person weeks @ £1000.
+2. January 2023 - 20 hours @ £1000.
    - Development of new "PKT Cash" branded theme.
+   - Additional development in preparation for open-source release.
 
 #### Payout
 After a report is delivered on this milestone and it is approved by the NS, the NS will send PKT to the value of £6000 (GBP).
