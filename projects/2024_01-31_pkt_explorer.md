@@ -69,7 +69,7 @@ Project expenditure report:
    - Additional development in preparation for open-source release.
 
 #### Payout
-After a report is delivered on this milestone and it is approved by the NS, the NS will send PKT to the value of £6000 (GBP).
+After a report is delivered on this milestone and it is approved by the NS, the NS will send PKT to the value of £4000 (GBP).
 
 ...
 
