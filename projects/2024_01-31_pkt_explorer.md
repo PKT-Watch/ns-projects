@@ -8,7 +8,7 @@
 * Projected effort: n/a - project is complete
 * Pre-project effort: 80 hrs
 * Requested PKT contribution: PKT equivalent to £4000 (GBP)
-* PKT address to pay to: pkt1quv0jf9ve0s5nh5j9dn3sau5hpp90pcyurmfk0w
+* PKT address to pay to: pkt1q64h40dkdkpx8ly2qglrspa4p2hu4dhla7pgflu
 
 ## Project summary
 
